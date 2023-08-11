@@ -14,7 +14,7 @@ _Descripción de la captura de pantalla 2._
 
 ## Características del Laberinto
 
-El diseño del laberinto es abierto a la creatividad de cada alumno. Para crear el entorno, se han utilizado primitivas de `pygame` como `pygame.draw.rect` y `pygame.draw.line` para la representación visual del laberinto.
+...
 
 ## Instrucciones de Ejecución
 
@@ -24,4 +24,4 @@ El diseño del laberinto es abierto a la creatividad de cada alumno. Para crear 
 4. Ejecuta el siguiente comando para iniciar el laberinto:
 
    ```bash
-   python main.py
+   python graficacion-laberinto.py
