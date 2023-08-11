@@ -6,22 +6,17 @@ Este proyecto consiste en la creación de un entorno tipo laberinto utilizando l
 
 A continuación, se muestran algunas capturas de pantalla del entorno del laberinto creado:
 
-![Captura de Pantalla 1](screenshots/screenshot1.png)
+![Captura de Pantalla 1](images/img1.png)
 _Descripción de la captura de pantalla 1._
 
-![Captura de Pantalla 2](screenshots/screenshot2.png)
+![Captura de Pantalla 2](images/img2.png)
 _Descripción de la captura de pantalla 2._
 
 ## Características del Laberinto
 
 ...
 
-## Instrucciones de Ejecución
-
-1. Asegúrate de tener Python y `pygame` instalados en tu sistema.
-2. Clona este repositorio en tu máquina local.
-3. Navega hasta la carpeta del repositorio clonado.
-4. Ejecuta el siguiente comando para iniciar el laberinto:
+- Ejecuta el siguiente comando para iniciar el laberinto:
 
    ```bash
    python graficacion-laberinto.py
