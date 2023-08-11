@@ -6,7 +6,7 @@ Este proyecto consiste en la creación de un entorno tipo laberinto utilizando l
 
 A continuación, se muestran algunas capturas de pantalla del entorno del laberinto creado:
 
-![Captura de Pantalla 1](images/img1.png)
+![Captura de Pantalla 1](/graficacion-laberinto/images/img1.jpeg)
 _Descripción de la captura de pantalla 1._
 
 ![Captura de Pantalla 2](images/img2.png)
