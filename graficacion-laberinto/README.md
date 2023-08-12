@@ -5,13 +5,13 @@ Este proyecto consiste en la creación de un entorno tipo laberinto utilizando l
 ## Capturas de Pantalla
 
 <img src="/graficacion-laberinto/images/img1.png" alt="Captura de Pantalla 1" width="400"/>
-_Laberinto sin jugador. El punto verde es el punto inicial. El punto rojo es la meta_
+Laberinto sin jugador. El punto verde es el punto inicial. El punto rojo es la meta
 
 <img src="/graficacion-laberinto/images/img2.png" alt="Captura de Pantalla 2" width="400"/>
-_Laberinto con jugador. El punto morado es el jugador_
+Laberinto con jugador. El punto morado es el jugador
 
 <img src="/graficacion-laberinto/images/img3.png" alt="Captura de Pantalla 3" width="400"/>
-_Pantalla de victoria. Se consigue cuando el jugador llega a la meta._
+Pantalla de victoria. Se consigue cuando el jugador llega a la meta.
 
 ## Características del Laberinto
 
