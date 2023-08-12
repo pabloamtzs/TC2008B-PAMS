@@ -38,7 +38,7 @@ maze = [
     "X0X0XXX0X0XXX0XXXXX0X0XXX",
     "X0X0X0X0X0X000X000X0X000X",
     "X0X0X0X0X0X0XXX0XXX0XXX0X",
-    "SEX000X0X0X00000X00000X0X",
+    "S0X000X0X0X00000X00000X0X",
     "X0XXXXX0XXXXX0XXX0XXX0XOX",
     "X00000X000X000X000X000X0E",
     "XXXXX0X0X0X0XXX0XXX0XXXXX",
@@ -86,7 +86,7 @@ while True:
         win_message = font.render("Ganaste!", True, white)
         screen.blit(win_message, (screen_width // 2 - win_message.get_width() // 2, screen_height // 2 - win_message.get_height() // 2))
         pygame.display.flip()
-        pygame.time.delay(2500)  # Display the message for 2 seconds
+        pygame.time.delay(2100)  # Display the message for 2 seconds
         pygame.quit()
         sys.exit()
     else:
